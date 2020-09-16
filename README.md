@@ -274,3 +274,6 @@ MonitorProxy - (0xeedc04af995c61e36265f2eae4d9ab9fbb2bfb6c)
 Savings Logger - (0x89b3635bd2bad145c6f92e82c9e83f06d5654984)
 
 [source](https://github.com/DecenterApps/cdpsaver-contracts)
+
+## yam-finance
+[source](https://github.com/yam-finance/yam-protocol)
